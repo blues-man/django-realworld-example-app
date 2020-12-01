@@ -6,6 +6,10 @@
 
 This repo is functionality complete — PR's and issues welcome!
 
+# Deploy it to CodeReady Workspaces with Factory
+
+[![Contribute](factory-contribute.svg)](https://codeready-openshift-workspaces.apps.cluster-a64e.a64e.example.opentlc.com//factory?url=https://github.com/blues-man/django-realworld-example-app.git)
+
 ## Installation
 
 1. Clone this repository: `git clone git@github.com:gothinkster/productionready-django-api.git`.
